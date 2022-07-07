@@ -1,0 +1,18 @@
+h2{
+    color: red;
+    background-color: blue;
+}
+button{
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: WHITE;
+
+}
+button:hover{
+    color: pink;
+    background-color: black;
+
+}
