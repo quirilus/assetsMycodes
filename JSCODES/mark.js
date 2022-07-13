@@ -24,7 +24,7 @@
 // let linebreak = "<br />";
 
 
-// switch(grade){ // set thr grade to be tested
+// switch(grade){ // set the grade to be tested
 //     case "A":
 //         console.log("that was a execellent job");
 //         break;
@@ -573,7 +573,7 @@ console.log(add());
 
 //   const lifeTime = 90;
 
-//   timeStatus = {
+//   timeStatus = { // object.
 //     days:(lifeTime - currentAge) * 365,
 //     weeks: (lifeTime - currentAge) * 52,
 //     months:(lifeTime - currentAge) * 12
